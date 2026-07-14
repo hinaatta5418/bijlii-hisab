@@ -1,0 +1,18 @@
+{
+  "name": "BijliHisaab — Pakistan Electricity Bill Estimator",
+  "short_name": "BijliHisaab",
+  "description": "Free bilingual (English/اردو) electricity bill calculator for Pakistan — LESCO, FESCO, MEPCO, IESCO, K-Electric and every DISCO.",
+  "lang": "en",
+  "dir": "auto",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f4f1",
+  "theme_color": "#e1251b",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
